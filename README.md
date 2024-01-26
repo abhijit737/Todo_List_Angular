@@ -11,6 +11,11 @@ todo-added-finished list
 ![Alt Text](https://github.com/abhijit737/Todo_List_Angular/raw/main/todoList_Photos/todo-addedtofinished.png)
 
 
+deleted from todo 
+
+![Alt Text](https://github.com/abhijit737/Todo_List_Angular/raw/main/todoList_Photos/todo-deleted.png)
+
+
 # TodoList
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.8.
