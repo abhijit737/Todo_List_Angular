@@ -4,7 +4,7 @@ add -new
 
 todo -added new
 
-[![Alt Text](https://github.com/abhijit737/Todo_List_Angular/raw/main/todoList_Photos/todo-added.png)](https://your-link-here.com)
+[![Alt Text](https://github.com/abhijit737/Todo_List_Angular/raw/main/todoList_Photos/todo-added.png)
 
 
 
