@@ -4,8 +4,11 @@ add -new
 
 todo -added new
 
-[![Alt Text](https://github.com/abhijit737/Todo_List_Angular/raw/main/todoList_Photos/todo-added.png)
+![Alt Text](https://github.com/abhijit737/Todo_List_Angular/raw/main/todoList_Photos/todo-added.png)
 
+todo-added-finished list
+
+![Alt Text](https://github.com/abhijit737/Todo_List_Angular/raw/main/todoList_Photos/todo-addedtofinished.png)
 
 
 # TodoList
