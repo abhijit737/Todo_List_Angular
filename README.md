@@ -1,3 +1,10 @@
+add -new
+
+![Alt Text](https://github.com/abhijit737/Todo_List_Angular/raw/main/todoList_Photos/todo-add.png)
+
+
+
+
 # TodoList
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.8.
