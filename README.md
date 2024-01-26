@@ -15,6 +15,9 @@ deleted from todo
 
 ![Alt Text](https://github.com/abhijit737/Todo_List_Angular/raw/main/todoList_Photos/todo-deleted.png)
 
+removed-finished-list
+![Alt Text](https://github.com/abhijit737/Todo_List_Angular/raw/main/todoList_Photos/finished-list-deleted.png)
+
 
 # TodoList
 
